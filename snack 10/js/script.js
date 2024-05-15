@@ -1,11 +1,14 @@
-let shortarray = [1, 2, 3];
-let longarray = [4, 5, 6, 7, 8];
+
+//creo un array vuoto
+const array [];
+
+const number = (prompt(che numero vuoi inserire?));
 
 
-if (shortarray.length < longarray.length) {
-    while (shortarray < longarray.length)
-}
+somma=0
 
-else if (longarray.length < shortarray.length) {
-while (longarray.length < shortarray.length) }
-                
+while= somma<50;
+
+
+
+
