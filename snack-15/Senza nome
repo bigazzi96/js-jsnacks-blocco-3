@@ -1,0 +1,10 @@
+const palla = [
+    {
+        'nome'= 'palla';
+        'peso'= '10';
+    }
+];
+
+const nuovoPeso = prompt("Inserisci il nuovo peso della palla:");
+
+
