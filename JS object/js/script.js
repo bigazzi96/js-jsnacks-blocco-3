@@ -85,4 +85,4 @@ const automobili [
 
 ];
 
-const automobiliBenzina = automobili.filter(auto => auto.carburante === 'benzina');
+const automobiliBenzina = automobili.filter(auto => auto.alimentazione === 'benzina');
