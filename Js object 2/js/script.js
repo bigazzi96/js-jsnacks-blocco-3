@@ -60,7 +60,9 @@ const persone [
 
 ];
 const commento = persone.map(persona => {
-    const puoGuidare = persona.eta >= 18  "
+    const puoGuidare = persona.eta >= 18  
 
+    const personeModificate= perosone.map((persona)=> {
+        return 
+    })
 console.log(commento);
-
